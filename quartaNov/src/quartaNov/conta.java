@@ -1,11 +1,10 @@
 package quartaNov;
 
-public class principal {
+public class conta {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 
-		int numero;
-		double saldo;
 	}
 
 }
