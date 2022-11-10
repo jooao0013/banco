@@ -6,5 +6,10 @@ public class clientes {
 	int numeroCPF;
 	
 	conta Contas;
+	
+	public clientes(String name, int number) {
+		this.nome = name;
+		this.numeroCPF = number;
+	}
 
 }
